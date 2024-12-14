@@ -1,9 +1,9 @@
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
-import About from './pages/About'
-import NotFound from './pages/NotFound'
-import Navbar from './components/Navbar'
+import About from './pages/about'
+import NotFound from './pages/notfound'
+import Navbar from './Components/Navbar'
 
 
 function App() {
